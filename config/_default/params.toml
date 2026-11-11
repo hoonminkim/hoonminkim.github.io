@@ -1,0 +1,26 @@
+colorScheme = "slate"
+defaultAppearance = "light"
+autoSwitchAppearance = true
+enableSearch = true
+enableCodeCopy = true
+mainSections = ["writing"]
+[header]
+  layout = "basic"
+[footer]
+  showCopyright = true
+  showThemeAttribution = true
+  showAppearanceSwitcher = true
+  showScrollToTop = true
+[homepage]
+  layout = "profile"
+  showRecent = false
+[article]
+  showDate = true
+  showAuthor = false
+  showReadingTime = true
+  showTableOfContents = true
+  showWordCount = false
+[list]
+  showSummary = true
+  showTableOfContents = false
+  groupByYear = true

@@ -1,0 +1,17 @@
+locale = "en"
+label = "English"
+weight = 1
+title = "Hoonmin Kim"
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  dateFormat = "January 2006"
+  description = "Computer vision engineer specializing in camera calibration and 3D geometry for automotive ADAS systems."
+[params.author]
+  name = "Hoonmin Kim"
+  headline = "3D Vision Engineer & Technical Lead  \nGeometric Computer Vision · Multi-Camera Systems"
+  links = [
+    { email = "mailto:hoonmin.kim23@gmail.com" },
+    { github = "https://github.com/hoonminkim" },
+    { linkedin = "https://www.linkedin.com/in/hoonminkim" }
+  ]

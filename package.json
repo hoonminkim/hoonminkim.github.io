@@ -1,0 +1,10 @@
+{
+  "name": "hoonmin-kim-profile",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Hoonmin Kim profile and technical writing, using Hugo and Blowfish.",
+  "scripts": {
+    "dev": "hugo server --disableFastRender",
+    "build": "hugo --minify"
+  }
+}
